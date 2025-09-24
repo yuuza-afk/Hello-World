@@ -1,17 +1,17 @@
 # My-First-Repo
 My first repository on GitHub.
 
-## Hello, World! I'm Yusuf.
-I am a novice penetratrion tester and cybersecurity specialist.
+## Hello, World! I'm Yusuf AKA Yuuza.
+I am a novice programmer and I'm really interested in cybersecurity and coding.
 
 ## My goals for the near future:
-- Learn Python for task automation
-- Hack machines on HackTheBox and publish write-ups
+- Learn C++ (and then) learn Python for task automation
+- Practice C++ on W3schools
 - Complete the "Pre Security" path on TryHackMe
 
 ## Skills I am currently learning:
-- **Networks:** TCP/IP, Nmap
-- **Operational Systems:** Linux (Kali), Windows,
+- **Networks:** IP, Nmap
+- **Operational Systems:** Linux (Kali), Windows
 - **Languages:** C++, Python, Bash
 
 Thank you for reading!
