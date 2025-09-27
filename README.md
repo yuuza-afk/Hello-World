@@ -6,8 +6,8 @@ I am a novice programmer and I'm really interested in cybersecurity and coding.
 
 ## My goals for the near future:
 - Learn C++ (and then) learn Python for task automation
-- Practice C++ on W3schools
-- Complete the "Pre Security" path on TryHackMe
+- Practice C++ on Codewars
+- Learn basics in cybersecurity
 
 ## Skills I am currently learning:
 - **Networks:** IP, Nmap
